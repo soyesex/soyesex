@@ -2,7 +2,7 @@
 
 <img src="C:\Users\suare\OneDrive\Pictures\Fotos_Johan\johan.jpg" alt="Johan Suarez" width="150" align="right">
 
-Soy un Tecnólogo en Análisis y Desarrollo de Software del SENA, apasionado por la tecnología y el ecosistema .NET. Me encanta construir aplicaciones de escritorio y web, con un interés especial en la experiencia de usuario (UI/UX) y la Inteligencia Artificial.
+Soy un Tecnólogo en Análisis y Desarrollo de Software del SENA, apasionado por la tecnología y el ecosistema .NET. Me encanta construir aplicaciones, tengo un interés especial con la experiencia de usuario (UI/UX) y la Inteligencia Artificial.
 
 ---
 
