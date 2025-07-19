@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Johan Suarez 👋
 
-<img src="C:\Users\suare\OneDrive\Pictures\Fotos Johan\johan.jpg" alt="Johan Suarez" width="150" align="right">
+<img src="C:\Users\suare\OneDrive\Pictures\Fotos_Johan\johan.jpg" alt="Johan Suarez" width="150" align="right">
 
 Soy un Tecnólogo en Análisis y Desarrollo de Software del SENA, apasionado por la tecnología y el ecosistema .NET. Me encanta construir aplicaciones de escritorio y web, con un interés especial en la experiencia de usuario (UI/UX) y la Inteligencia Artificial.
 
@@ -22,4 +22,4 @@ Soy un Tecnólogo en Análisis y Desarrollo de Software del SENA, apasionado por
 - Profundizando mis conocimientos en React para el desarrollo frontend.
 
 **📫 ¿Conectamos?**
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/johansuarez-dev)
+- **LinkedIn:** [Mi Perfil de LinkedIn](https://www.linkedin.com/in/johansuarez-dev)
