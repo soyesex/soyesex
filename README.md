@@ -1,16 +1,25 @@
-## Hi there 👋
+### ¡Hola! Soy Johan Suarez 👋
 
-<!--
-**soyesex/soyesex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src=""C:\Users\suare\OneDrive\Pictures\Fotos Johan\johan.jpg"" alt="Johan Suarez" width="150" align="right">
 
-Here are some ideas to get you started:
+Soy un Tecnólogo en Análisis y Desarrollo de Software del SENA, apasionado por la tecnología y el ecosistema .NET. Me encanta construir aplicaciones de escritorio y web, con un interés especial en la experiencia de usuario (UI/UX) y la Inteligencia Artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🛠️ Lenguajes y Herramientas:**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+**🌱 Actualmente estoy:**
+- Buscando mi primera oportunidad como desarrollador a través de un contrato de aprendizaje.
+- Subiendo mis proyectos personales a GitHub (¡Pronto más!).
+- Profundizando mis conocimientos en React para el desarrollo frontend.
+
+**📫 ¿Conectamos?**
+- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/johansuarez-dev)
