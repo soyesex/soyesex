@@ -1,24 +1,31 @@
-### ¡Hola! Soy Johan Suarez 👋
+# Johan Suarez
 
+**Software Developer · QA Engineer**
 
-Soy un Tecnólogo en Análisis y Desarrollo de Software del SENA, apasionado por la tecnología y el ecosistema .NET. Me encanta construir aplicaciones, tengo un interés especial con la experiencia de usuario (UI/UX) y la Inteligencia Artificial.
+Software Technology graduate with professional experience in Quality Assurance at an international company with operations in Seattle. I enjoy building reliable software and understanding how systems work under the hood.
 
----
-
-**🛠️ Lenguajes y Herramientas:**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Currently open to new opportunities.
 
 ---
 
-**🌱 Actualmente estoy:**
-- Buscando mi primera oportunidad como desarrollador a través de un contrato de aprendizaje.
-- Subiendo mis proyectos personales a GitHub (¡Pronto más!).
-- Profundizando mis conocimientos en React para el desarrollo frontend.
+### Stack
 
-**📫 ¿Conectamos?**
-- **LinkedIn:** [Mi Perfil de LinkedIn](https://www.linkedin.com/in/johansuarez-dev)
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+### Contact
+
+<p>
+  <a href="https://github.com/soyesex"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <!-- Add when ready:
+  <a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white" /></a>
+  -->
+</p>
